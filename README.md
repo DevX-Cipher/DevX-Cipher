@@ -8,3 +8,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=modz2014&show_icons=true&locale=en&layout=compact&theme=transparent" alt="modz2014" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modz2014&theme=transparent" alt="modz2014" /></p>
+
+![GitHub all releases](https://img.shields.io/github/downloads/:modz2014/:repo/total)
