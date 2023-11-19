@@ -10,5 +10,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=modz2014&theme=transparent" alt="modz2014" /></p>
 
 
-DieShell ![GitHub all releases](https://img.shields.io/github/downloads/modz2014/DieShell/total?labelColor=%230000&color=%230000)
+![GitHub all releases](https://img.shields.io/github/downloads/modz2014/DieShell/total?label=Downloads&labelColor=%230000&color=%230000)
+
 
