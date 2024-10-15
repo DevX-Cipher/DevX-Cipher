@@ -11,5 +11,6 @@
 
 
 - DieShell ![GitHub all releases](https://img.shields.io/github/downloads/modz2014/DieShell/total?label=Downloads&labelColor=%230000&color=%230000)
+- MakefileBuildExtension ![GitHub all releases](https://img.shields.io/github/downloads/modz2014/MakefileBuildExtension/total?label=Downloads&labelColor=%230000&color=%230000)
 
 
