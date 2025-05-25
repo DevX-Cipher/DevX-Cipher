@@ -32,27 +32,17 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/DevX-Cipher/DieShell" target="_blank" rel="noreferrer">
-        <strong>DieShell</strong><br />
-        <img src="https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total?label=Downloads&color=black" alt="DieShell downloads" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DevX-Cipher/MakefileBuildExtension" target="_blank" rel="noreferrer">
-        <strong>MakefileBuildExtension</strong><br />
-        <img src="https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total?label=Downloads&color=black" alt="MakefileBuildExtension downloads" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/DevX-Cipher/WinToMacApps" target="_blank" rel="noreferrer">
-        <strong>WinToMacApps</strong><br />
-        <img src="https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total?label=Downloads&color=black" alt="WinToMacApps downloads" /><br />
-        <img src="https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps?style=social" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/DevX-Cipher/WinToMacApps?style=social" alt="Forks" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🚀 Projects
+
+- [![GitHub stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)](https://github.com/DevX-Cipher/DieShell)
+  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg)](https://github.com/DevX-Cipher/DieShell/releases)  
+  [**DieShell**](https://github.com/DevX-Cipher/DieShell) – A lightweight command shell for power users and automation.
+
+- [![GitHub stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)](https://github.com/DevX-Cipher/MakefileBuildExtension)
+  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg)](https://github.com/DevX-Cipher/MakefileBuildExtension/releases)  
+  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension) – Integrates Makefile-based build flows with modern toolchains.
+
+- [![GitHub stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps.svg)](https://github.com/DevX-Cipher/WinToMacApps)
+  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total.svg)](https://github.com/DevX-Cipher/WinToMacApps/releases)  
+  [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps) – Build native macOS apps on Windows using CMake, Clang, and Qt without a VM.
+
