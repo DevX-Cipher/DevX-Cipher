@@ -20,8 +20,6 @@
 
 ---
 
-### 🚀 Projects
-
 ## 🚀 Projects
 
  
