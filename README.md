@@ -9,8 +9,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevX-Cipher&theme=transparent" alt="DevX-Cipher" /></p>
 
+- DieShell  
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total?label=Downloads&labelColor=%230000&color=%230000)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell?style=social)  
+  ![Forks](https://img.shields.io/github/forks/DevX-Cipher/DieShell?style=social)
 
-- DieShell ![GitHub all releases](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total?label=Downloads&labelColor=%230000&color=%230000)
-- MakefileBuildExtension ![GitHub all releases](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total?label=Downloads&labelColor=%230000&color=%230000)
-- WinToMacApps ![GitHub all releases](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total?label=Downloads&labelColor=%230000&color=%230000)
+- MakefileBuildExtension  
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total?label=Downloads&labelColor=%230000&color=%230000)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension?style=social)  
+  ![Forks](https://img.shields.io/github/forks/DevX-Cipher/MakefileBuildExtension?style=social)
+
+- WinToMacApps  
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total?label=Downloads&labelColor=%230000&color=%230000)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps?style=social)  
+  ![Forks](https://img.shields.io/github/forks/DevX-Cipher/WinToMacApps?style=social)
+
 
