@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <em>Cross-platform developer | Open source enthusiast | Building macOS apps on Windows</em>
+  <em>Cross-platform developer | Open source enthusiast</em>
 </p>
 
 ---
