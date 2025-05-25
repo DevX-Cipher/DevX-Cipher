@@ -6,9 +6,7 @@
 <p align="center">
   <a href="https://github.com/DevX-Cipher" target="_blank" rel="noreferrer">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevX-Cipher?style=social" />
-  </a>
-  <a href="https://twitter.com/your_twitter" target="_blank" rel="noreferrer">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your_twitter?style=social" />
+  
   </a>
   <!-- Add more social badges as you like -->
 </p>
