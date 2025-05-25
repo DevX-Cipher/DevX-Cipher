@@ -32,23 +32,23 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-<table align="center" cellspacing="15">
-  <tr align="center">
-    <td>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
       <a href="https://github.com/DevX-Cipher/DieShell" target="_blank" rel="noreferrer">
-        <b>DieShell</b><br />
+        <strong>DieShell</strong><br />
         <img src="https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total?label=Downloads&color=black" alt="DieShell downloads" />
       </a>
     </td>
-    <td>
+    <td align="center" width="33%">
       <a href="https://github.com/DevX-Cipher/MakefileBuildExtension" target="_blank" rel="noreferrer">
-        <b>MakefileBuildExtension</b><br />
+        <strong>MakefileBuildExtension</strong><br />
         <img src="https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total?label=Downloads&color=black" alt="MakefileBuildExtension downloads" />
       </a>
     </td>
-    <td>
+    <td align="center" width="33%">
       <a href="https://github.com/DevX-Cipher/WinToMacApps" target="_blank" rel="noreferrer">
-        <b>WinToMacApps</b><br />
+        <strong>WinToMacApps</strong><br />
         <img src="https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total?label=Downloads&color=black" alt="WinToMacApps downloads" /><br />
         <img src="https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps?style=social" alt="Stars" />
         <img src="https://img.shields.io/github/forks/DevX-Cipher/WinToMacApps?style=social" alt="Forks" />
