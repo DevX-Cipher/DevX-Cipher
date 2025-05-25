@@ -12,5 +12,5 @@
 
 - DieShell ![GitHub all releases](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total?label=Downloads&labelColor=%230000&color=%230000)
 - MakefileBuildExtension ![GitHub all releases](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total?label=Downloads&labelColor=%230000&color=%230000)
-
+- WinToMacApps ![Github all releases](https://github.com/DevX-Cipher/WinToMacApps/total?label=Downloads&labelColor=%230000&color=%23000)
 
