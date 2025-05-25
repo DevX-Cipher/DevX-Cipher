@@ -22,12 +22,16 @@
 
 ### 🚀 Projects
 
-  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg)](https://github.com/DevX-Cipher/DieShell/releases)  
-  [**DieShell**](https://github.com/DevX-Cipher/DieShell) 
+## 🚀 Projects
 
-  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg)](https://github.com/DevX-Cipher/MakefileBuildExtension/releases)  
-  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
-  
-- [![GitHub stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps.svg)](https://github.com/DevX-Cipher/WinToMacApps)
-  [![GitHub downloads](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total.svg)](https://github.com/DevX-Cipher/WinToMacApps/releases)  
-  [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps) – Build native macOS apps on Windows using CMake, Clang, and Qt without a VM.
+- [**DieShell**](https://github.com/DevX-Cipher/DieShell)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) – A lightweight command shell for power users and automation.
+
+- [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) – Integrates Makefile-based build flows with modern toolchains.
+
+- [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps)  
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps.svg)
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total.svg) – Build native macOS apps on Windows using CMake, Clang, and Qt without a VM.
