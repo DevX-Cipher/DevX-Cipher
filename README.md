@@ -6,7 +6,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevX-Cipher?style=social" />
 </a>
 
-*Cross-platform developer | Open source enthusiast*
+*Cross-platform developer | Open source*
 
 ---
 
