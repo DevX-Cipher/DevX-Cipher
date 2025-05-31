@@ -32,6 +32,4 @@
   ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) –  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)  
 
 
-  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps.svg)
-  
- [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps)  
+ 
