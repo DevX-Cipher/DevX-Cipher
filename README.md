@@ -33,4 +33,5 @@
 
 
   ![Stars](https://img.shields.io/github/stars/DevX-Cipher/WinToMacApps.svg)
-  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/WinToMacApps/total.svg) –  [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps)  
+  
+ [**WinToMacApps**](https://github.com/DevX-Cipher/WinToMacApps)  
