@@ -29,7 +29,15 @@
 
 
   ![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
-  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) –  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)  
+  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) –  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
+
+
+  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg)
+![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg) – [**7zip-plugin**](https://github.com/DevX-Cipher/7zip-plugin)
+
+
+
+  
 
 
  
