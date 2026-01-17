@@ -10,34 +10,23 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevX-Cipher&theme=radical" alt="GitHub Streak" />
+[<img src="https://streak-stats.demolab.com?user=DevX-Cipher&theme=radical" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevX-Cipher&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+[<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=DevX-Cipher&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />](https://github.com/DevX-Cipher)
 
 ---
 
 ## 🚀 Projects
 
- 
-  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)
-  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) - [**DieShell**](https://github.com/DevX-Cipher/DieShell) 
+![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)
+![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) - [**DieShell**](https://github.com/DevX-Cipher/DieShell)
 
+![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
+![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) – [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
 
-  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
-  ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) –  [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
-
-
-  ![Stars](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg)
+![Stars](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg)
 ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg) – [**7zip-plugin**](https://github.com/DevX-Cipher/7zip-plugin)
-
-
-
-  
-
-
- 
