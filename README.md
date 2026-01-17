@@ -16,7 +16,8 @@
 
 [<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevX-Cipher&theme=radical" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
 
-[<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />](https://github.com/DevX-Cipher)
+[<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&layout=compact&theme=transparent" alt="Top Languages" />](https://github.com/DevX-Cipher)
+
 
 
 
