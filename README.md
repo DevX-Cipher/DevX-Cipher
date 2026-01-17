@@ -12,7 +12,8 @@
 
 ## 📊 GitHub Stats
 
-[<img src="https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)
+[[<img src="https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)](https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=tokyonight&hide_rank=true
+)
 
 [<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevX-Cipher&theme=radical" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
 
