@@ -6,28 +6,24 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/DevX-Cipher?style=social" />
 </a>
 
-*Cross-platform developer | Open source Enthusiasts*
+*Cross-platform developer | Open source Enthusiast*
 
 ---
 
 ## 📊 GitHub Stats
 
-[[<img src="https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)](https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=tokyonight&hide_rank=true
-)
+[<img src="https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)
 
-[<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevX-Cipher&theme=radical" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
+[<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevX-Cipher&theme=tokyonight" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
 
-[<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />](https://github.com/DevX-Cipher)
-
-
-
+[<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&layout=compact&theme=transparent" alt="Top Languages" />](https://github.com/DevX-Cipher)
 
 ---
 
 ## 🚀 Projects
 
 ![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)
-![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) - [**DieShell**](https://github.com/DevX-Cipher/DieShell)
+![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) – [**DieShell**](https://github.com/DevX-Cipher/DieShell)
 
 ![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
 ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) – [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
