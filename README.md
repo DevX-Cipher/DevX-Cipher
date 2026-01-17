@@ -12,7 +12,6 @@
 
 [<img src="https://github-readme-stats-fast.vercel.app/api?username=DevX-Cipher&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" alt="GitHub Stats" />](https://github.com/DevX-Cipher)
 
-[<img src="https://github-readme-streak-stats.herokuapp.com?user=DevX-Cipher&theme=tokyonight" alt="GitHub Streak" />](https://github.com/DevX-Cipher)
 
 [<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&layout=compact&theme=tokyonight" alt="Top Languages" />](https://github.com/DevX-Cipher)
 
