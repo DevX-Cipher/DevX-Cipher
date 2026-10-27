@@ -18,15 +18,38 @@
 ---
 
 ## 🚀 Projects
+<table>
+<tr>
+<td>
 
-![Stars](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg)
-![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) – [**DieShell**](https://github.com/DevX-Cipher/DieShell)
+<img src="https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg">
+<img src="https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg"><br>
+<b><a href="https://github.com/DevX-Cipher/DieShell">DieShell</a></b>
 
-![Stars](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg)
-![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) – [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension)
+</td>
+<td>
 
-![Stars](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg)
-![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg) – [**7zip-plugin**](https://github.com/DevX-Cipher/7zip-plugin)
+<img src="https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg">
+<img src="https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg"><br>
+<b><a href="https://github.com/DevX-Cipher/MakefileBuildExtension">MakefileBuildExtension</a></b>
 
-![Stars](https://img.shields.io/github/stars/horsicq/cDiE.svg)
-![Downloads](https://img.shields.io/github/downloads/horsicq/cDiE/total.svg) – [**cDiE**](https://github.com/horsicq/CDiE)
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg">
+<img src="https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg"><br>
+<b><a href="https://github.com/DevX-Cipher/7zip-plugin">7zip-plugin</a></b>
+
+</td>
+<td>
+
+<img src="https://img.shields.io/github/stars/horsicq/cDiE.svg">
+<img src="https://img.shields.io/github/downloads/horsicq/cDiE/total.svg"><br>
+<b><a href="https://github.com/horsicq/CDiE">cDiE</a></b>
+
+</td>
+</tr>
+</table>
