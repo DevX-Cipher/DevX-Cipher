@@ -18,11 +18,28 @@
 ---
 
 ## 🚀 Projects
+<table>
+<tr>
+<td><img src="https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg"></td>
+<td><img src="https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg"></td>
+<td><a href="https://github.com/DevX-Cipher/DieShell"><b>DieShell</b></a></td>
+</tr>
 
+<tr>
+<td><img src="https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg"></td>
+<td><img src="https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg"></td>
+<td><a href="https://github.com/DevX-Cipher/MakefileBuildExtension"><b>MakefileBuildExtension</b></a></td>
+</tr>
 
-| Stars | Downloads | Project |
-|--------|--------|---------|
-| ![](https://img.shields.io/github/stars/DevX-Cipher/DieShell.svg) | ![](https://img.shields.io/github/downloads/DevX-Cipher/DieShell/total.svg) | [**DieShell**](https://github.com/DevX-Cipher/DieShell) |
-| ![](https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg) | ![](https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg) | [**MakefileBuildExtension**](https://github.com/DevX-Cipher/MakefileBuildExtension) |
-| ![](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg) | ![](https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg) | [**7zip-plugin**](https://github.com/DevX-Cipher/7zip-plugin) |
-| ![](https://img.shields.io/github/stars/horsicq/cDiE.svg) | ![](https://img.shields.io/github/downloads/horsicq/cDiE/total.svg) | [**cDiE**](https://github.com/horsicq/CDiE) |
+<tr>
+<td><img src="https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg"></td>
+<td><img src="https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg"></td>
+<td><a href="https://github.com/DevX-Cipher/7zip-plugin"><b>7zip-plugin</b></a></td>
+</tr>
+
+<tr>
+<td><img src="https://img.shields.io/github/stars/horsicq/cDiE.svg"></td>
+<td><img src="https://img.shields.io/github/downloads/horsicq/cDiE/total.svg"></td>
+<td><a href="https://github.com/horsicq/CDiE"><b>cDiE</b></a></td>
+</tr>
+</table>
