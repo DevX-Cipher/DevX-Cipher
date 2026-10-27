@@ -14,8 +14,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevX-Cipher&theme=tokyonight)](https://github.com/DevX-Cipher)
 
-[<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=DevX-Cipher&layout=compact&theme=tokyonight" alt="Top Languages" />](https://github.com/DevX-Cipher)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevX-Cipher&layout=compact&theme=tokyonight)](https://github.com/DevX-Cipher)
 ---
 
 ## 🚀 Projects
