@@ -27,17 +27,17 @@
 <p>
 <img src="https://img.shields.io/github/stars/DevX-Cipher/MakefileBuildExtension.svg">
 <img src="https://img.shields.io/github/downloads/DevX-Cipher/MakefileBuildExtension/total.svg">
-&nbsp;&nbsp;<a href="https://github.com/DevX-Cipher/MakefileBuildExtension"><b>MakefileBuildExtension</b></a>
+<a href="https://github.com/DevX-Cipher/MakefileBuildExtension"><b>MakefileBuildExtension</b></a>
 </p>
 
 <p>
 <img src="https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg">
 <img src="https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg">
-&nbsp;&nbsp;<a href="https://github.com/DevX-Cipher/7zip-plugin"><b>7zip-plugin</b></a>
+&nbsp;<a href="https://github.com/DevX-Cipher/7zip-plugin"><b>7zip-plugin</b></a>
 </p>
 
 <p>
 <img src="https://img.shields.io/github/stars/horsicq/cDiE.svg">
 <img src="https://img.shields.io/github/downloads/horsicq/cDiE/total.svg">
-&nbsp;&nbsp;<a href="https://github.com/horsicq/CDiE"><b>cDiE</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/horsicq/CDiE"><b>cDiE</b></a>
 </p>
