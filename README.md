@@ -27,3 +27,6 @@
 
 ![Stars](https://img.shields.io/github/stars/DevX-Cipher/7zip-plugin.svg)
 ![Downloads](https://img.shields.io/github/downloads/DevX-Cipher/7zip-plugin/total.svg) – [**7zip-plugin**](https://github.com/DevX-Cipher/7zip-plugin)
+
+![Stars](https://img.shields.io/github/stars/horsicq/cDiE.svg)
+![Downloads](https://img.shields.io/github/downloads/horsicq/cDiE/total.svg) - [**cDie**](https://github.com/horsicq/CDiE)
