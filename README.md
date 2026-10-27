@@ -17,10 +17,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **DieShell**
-- 🌱 Exploring low-level tooling, file analysis and developer utilities
-- 🤝 Always open to contributing to and collaborating on open source
-- ⚡ Fun fact: I like making developer workflows faster
+- Exploring low-level tooling, file analysis and developer utilities
+- Always open to contributing to and collaborating on open source
+- Fun fact: I like making developer workflows faster
 
 ---
 
